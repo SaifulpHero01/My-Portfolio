@@ -1,0 +1,37 @@
+/*----- Poppins Fonts -----*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+/*----- Prata Fonts -----*/
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Libre+Baskerville:wght@400;700&family=Poppins:wght@300;400;500;600;700;800;900&family=Prata&display=swap');
+
+/*--============
+font-family: 'Poppins', sans-serif;
+font-family: 'Prata', serif;
+=============--*/
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1 {
+	font-size: 30px;
+	margin-top: 70px;
+}
+
+.name-highlight {
+	color: orange;
+	font-size: 35px;
+	font-family: 'Prata', serif;
+	font-weight: 900;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width h4 {
+	font-size: 20px;
+	margin-bottom: -7px;
+}
+.half-width img{
+    width: 100%;
+}
